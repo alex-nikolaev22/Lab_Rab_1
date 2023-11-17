@@ -7,4 +7,5 @@ x < -3: y = 1;
 -3 < x < -1: (x+1)^2 + y^2 = 4;
 -1 < x < 2: y = -2;
 x > 2: y = x - 4;
-![alt text][https://github.com/alex-nikolaev22/Lab_Rab_1/blob/main/Screenshot.PNG)https://github.com/alex-nikolaev22/Lab_Rab_1/blob/main/Screenshot.PNG)
+
+![Screenshot](https://github.com/alex-nikolaev22/Lab_Rab_1/assets/144359972/2a02bedd-fa8c-45d8-bbe5-333135e047e9)
